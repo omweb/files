@@ -1,0 +1,10 @@
+.wx-center {
+  text-align: center;
+}
+
+.wx-code {
+  display: inline-block;
+  border-radius: 10px;
+  margin: 0px;
+  width: 33%;
+}
